@@ -22,7 +22,7 @@ Azure App Service sample for managing web apps.
  - update both web apps to use the domain and the created wildcard SSL certificate
  
 
-## Running this Sample ##
+## Running this sample
 
 To run this sample:
 
